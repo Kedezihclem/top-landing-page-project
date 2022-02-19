@@ -165,7 +165,7 @@ button {
 	width: fit-content;
 	transition-duration: 0.4s
 }
-button: hover {
+button:hover {
 	background-color: white;
 	color: #3882f6
 }
